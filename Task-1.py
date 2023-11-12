@@ -1,4 +1,5 @@
-# Initialize an empty list to store tasks
+#To-Do List Application Development
+# empty list to store tasks
 tasks = []
 
 # Function to add a task
